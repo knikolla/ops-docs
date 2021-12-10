@@ -23,6 +23,12 @@ a `pre-commit` hook. Your pull request should pass any unit tests that
 exist in the repository (and if you are introducing a new feature,
 your pull request should include tests appropriate to that feature).
 
+Whenever possible, your project should use tooling that enforces a
+consistent code formatting standard. This ensures that apparent
+changes aren't solely caused by differences in formatting style
+between the author of the original code and the author of the proposed
+change.
+
 A good pull request is **focused**. It should only contain a few
 closely related commits, and each commit should have a clear purpose.
 Commits should be **isolated** such that a single commit can be
