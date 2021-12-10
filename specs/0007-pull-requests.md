@@ -16,10 +16,11 @@ experience for everyone involved.
 
 A good pull request is **clean**. In most cases it should be made
 against the current version of the primary branch in the repository
-(usually `master`, `main`, or `trunk`). It should be free of syntax
-errors and linting problems. Your local development environment should
-be configured to notify you of those problems in your editor and/or in
-a `pre-commit` hook. Your pull request should pass any unit tests that
+(usually `master`, `main`, or `trunk`). To respect the time of the
+people reviewing your code it should be free of syntax errors and
+linting problems. Your local development environment should be
+configured to notify you of those problems in your editor and/or in a
+`pre-commit` hook. Your pull request should pass any unit tests that
 exist in the repository (and if you are introducing a new feature,
 your pull request should include tests appropriate to that feature).
 
