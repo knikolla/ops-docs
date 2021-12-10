@@ -62,6 +62,13 @@ preceded by the phrase "This commit will…".)
 If your commit addresses specific issues from an issue tracker, they
 should be called out in the commit message.
 
+Commit messages that should explicitly be avoided are those that
+provide no information about the contents of the commit, such as:
+
+- "Responding to review feedback"
+- "Integrated changes from Bob"
+- "Refactored code"
+
 Your pull request description should provide a broad summary of the
 changes included in the request. Unlike commit messages, the pull
 request description can take advantage of GitHub formatting for
