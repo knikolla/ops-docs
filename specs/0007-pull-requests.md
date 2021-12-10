@@ -93,6 +93,12 @@ useful to reviewers.
   away from working on an exciting new feature in order to address the
   requested changes.
 
+- Append commits to your pull request rather than rebasing
+
+  This makes it easier for reviewers to see what has changed when you
+  update the pull request. Multiple commits can be squashed together
+  when the pull request merges.
+
 ### As a reviewer
 
 - Recognize that pull requests take time
