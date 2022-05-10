@@ -10,11 +10,11 @@ Post in format of:
 
 1. Since last standup:
 
-    1. Topic 1 (include links when applicable)
+    1. Topic 1
 
 1. Before next standup:
 
-    1. Topic 1 (include links when applicable)
+    1. Topic 1 (include links when applicable, include progress when possible)
 
 1. Parking Lot: (only include when applicable)
 
@@ -28,6 +28,7 @@ Post in format of:
 1. Out Of “Office”: (only include when applicable)
 
     1. Upcoming time off (this is separate from requesting time off, it is just to help your team know your plans)
+
         1. 1 day off try to let us know 2 days in advance
 
         1. 2-5 days off try to let us know a week in advance
