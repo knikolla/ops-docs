@@ -7,7 +7,7 @@ understandings of the new team members.
 
 ## Size
 
-1. Extra Small - most requirements are understood, relatively easy, likely
+1. Extra Small - Most requirements are understood, relatively easy, likely
 completed in a day or less.
 
 1. Small - A little bit of thought and effort required, similar work has been
