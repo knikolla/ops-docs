@@ -96,7 +96,7 @@ with the following axes that cover most of our existing labels:
   - `size/extra large`
   - `size/milestone`
 
-[Sizing]: https://github.com/joachimweyl/ops-docs/blob/master/practices/0004-github-issues-sizing.md
+[Sizing]: https://github.com/CCI-MOC/ops-docs/blob/master/practices/0004-github-issues-sizing.md
 
 ## Alternatives & History
 
