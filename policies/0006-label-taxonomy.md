@@ -84,10 +84,19 @@ with the following axes that cover most of our existing labels:
   - `priority/high`
   - `priority/critical`
 
-As soon as
-[cci-moc/ops-issues#241](https://github.com/CCI-MOC/ops-issues/issues/241)
-is complete we will also add something analogous to a `size` or
-`effort` axis.
+- **Size**
+
+  The `size` axis is used to guage size of issues. Further details can be
+  found [here][Sizing].
+
+  - `size/extra small`
+  - `size/small`
+  - `size/medium`
+  - `size/large`
+  - `size/extra large`
+  - `size/milestone`
+
+[Sizing]: https://github.com/CCI-MOC/ops-docs/blob/master/practices/0004-github-issues-sizing.md
 
 ## Alternatives & History
 
@@ -101,7 +110,7 @@ Primary author:
   - Lars Kellogg-Stedman <lars@redhat.com>
 
 Other contributors:
-  - None
+  - Joachim Weyl <joachimw@bu.edu>
 
 ### Milestones
 
