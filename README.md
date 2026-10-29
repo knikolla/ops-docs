@@ -10,7 +10,15 @@ The canonical URL for this repository is <https://github.com/cci-moc/ops-docs>.
 The documentation in this repository is published to
 <https://ops-docs.massopen.cloud>.
 
-Before opening a pull request, run `pre-commit run --all-files` from the repository root.
+Before opening a pull request, run these commands from the repository root:
+
+```sh
+python -m pip install pre-commit
+npm ci
+pre-commit run --all-files
+```
+
+`npm ci` installs the dependencies required by the frontmatter check; `npm install` is not needed.
 
 ## Architectural Decision Records (ADRs)
 
