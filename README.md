@@ -10,6 +10,8 @@ The canonical URL for this repository is <https://github.com/cci-moc/ops-docs>.
 The documentation in this repository is published to
 <https://ops-docs.massopen.cloud>.
 
+Before opening a pull request, run `pre-commit run --all-files` from the repository root.
+
 ## Architectural Decision Records (ADRs)
 
 The [`adrs`](adrs) directory contains Architectural Decision Records. Quoting from <https://adr.github.io/>:
